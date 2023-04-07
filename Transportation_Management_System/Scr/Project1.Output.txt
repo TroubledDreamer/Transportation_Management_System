@@ -1,0 +1,518 @@
+======================================
+Planner1[budget:$100000.0] planning basic transport for 10 people on day 0
+Planner1 successfully reserved Date:0;Type:BASICTRANSPORT;Bus:BUS_SML:numPeople:10
+Approval Certificate #0 granted to Planner1 for trip
+--------------------------------------
+======================================
+Planner1[budget:$99900.0] planning basic transport for 100 people on day 1
+Planner1 successfully reserved Date:1;Type:BASICTRANSPORT;Bus:BUS_SML:numPeople:100
+Approval Certificate #1 granted to Planner1 for trip
+--------------------------------------
+======================================
+Planner1[budget:$99800.0] planning a training trip with 10 people on day 2
+Planner1 successfully reserved Date:2;Type:TRAINING;Bus:BUS_SML:numPeople:10
+Approval Certificate #2 granted to Planner1 for trip
+--------------------------------------
+======================================
+Planner1[budget:$99700.0] planning a sports trip with 20 competitors and 10 others on day 3
+Planner1 successfully reserved Date:3;Type:SPORT;Bus:BUS_SML:numPeople:30
+Approval Certificate #3 granted to Planner1 for trip
+--------------------------------------
+======================================
+Planner1[budget:$99600.0] planning a party trip with 20 people on day 4
+Planner1 successfully reserved Date:3;Type:PARTY;Bus:BUS_BIG:numPeople:20
+Approval Certificate #4 granted to Planner1 for trip
+--------------------------------------
+======================================
+Planner1[budget:$98750.0] planning a party trip with 500 people
+Planner1 successfully reserved Date:3;Type:PARTY;Bus:PRT_BIG:numPeople:200
+Approval Certificate #5 granted to Planner1 for trip
+--------------------------------------
+======================================
+Planner2[budget:$50000.0] planning basic transport for 10 people on day 0
+Planner2 successfully reserved Date:0;Type:BASICTRANSPORT;Bus:BUS_BIG:numPeople:10
+Approval Certificate #6 granted to Planner2 for trip
+--------------------------------------
+======================================
+Planner2[budget:$49150.0] planning basic transport for 100 people on day 1
+Planner2 successfully reserved Date:1;Type:BASICTRANSPORT;Bus:BUS_BIG:numPeople:100
+Approval Certificate #7 granted to Planner2 for trip
+--------------------------------------
+======================================
+Planner2[budget:$48300.0] planning a training trip with 10 people on day 2
+Planner2 successfully reserved Date:2;Type:TRAINING;Bus:BUS_BIG:numPeople:10
+Approval Certificate #8 granted to Planner2 for trip
+--------------------------------------
+======================================
+Planner2[budget:$47450.0] planning a sports trip with 20 competitors and 10 others on day 3
+Planner2 successfully reserved Date:3;Type:SPORT;Bus:PRT_SML:numPeople:30
+Approval Certificate #9 granted to Planner2 for trip
+--------------------------------------
+======================================
+Planner2[budget:$43284.0] planning a party trip with 20 people on day 4
+Planner2 successfully reserved Date:3;Type:PARTY;Bus:SPT_SML:numPeople:20
+Approval Certificate #10 granted to Planner2 for trip
+--------------------------------------
+======================================
+Planner2[budget:$19284.0] planning a party trip with 500 people
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner3[budget:$60000.0] planning basic transport for 10 people on day 0
+Planner3 successfully reserved Date:0;Type:BASICTRANSPORT;Bus:PRT_SML:numPeople:10
+Approval Certificate #11 granted to Planner3 for trip
+--------------------------------------
+======================================
+Planner3[budget:$55834.0] planning basic transport for 100 people on day 1
+Planner3 successfully reserved Date:1;Type:BASICTRANSPORT;Bus:PRT_SML:numPeople:100
+Approval Certificate #12 granted to Planner3 for trip
+--------------------------------------
+======================================
+Planner3[budget:$51668.0] planning a training trip with 10 people on day 2
+Planner3 successfully reserved Date:2;Type:TRAINING;Bus:PRT_SML:numPeople:10
+Approval Certificate #13 granted to Planner3 for trip
+--------------------------------------
+======================================
+Planner3[budget:$47502.0] planning a sports trip with 20 competitors and 10 others on day 3
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner3[budget:$47502.0] planning a party trip with 20 people on day 4
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner3[budget:$47502.0] planning a party trip with 500 people
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner4[budget:$2000000.0] planning basic transport for 10 people on day 0
+Planner4 successfully reserved Date:0;Type:BASICTRANSPORT;Bus:PRT_BIG:numPeople:10
+Approval Certificate #14 granted to Planner4 for trip
+--------------------------------------
+======================================
+Planner4[budget:$1986112.0] planning basic transport for 100 people on day 1
+Planner4 successfully reserved Date:1;Type:BASICTRANSPORT;Bus:PRT_BIG:numPeople:100
+Approval Certificate #15 granted to Planner4 for trip
+--------------------------------------
+======================================
+Planner4[budget:$1972224.0] planning a training trip with 10 people on day 2
+Planner4 successfully reserved Date:2;Type:TRAINING;Bus:PRT_BIG:numPeople:10
+Approval Certificate #16 granted to Planner4 for trip
+--------------------------------------
+======================================
+Planner4[budget:$1958336.0] planning a sports trip with 20 competitors and 10 others on day 3
+Planner4 successfully reserved Date:3;Type:SPORT;Bus:SPT_BIG:numPeople:30
+Approval Certificate #17 granted to Planner4 for trip
+--------------------------------------
+======================================
+Planner4[budget:$1868336.0] planning a party trip with 20 people on day 4
+Planner4 successfully reserved Date:3;Type:PARTY;Bus:TRN_SML:numPeople:20
+Approval Certificate #18 granted to Planner4 for trip
+--------------------------------------
+======================================
+Planner4[budget:$1768336.0] planning a party trip with 500 people
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner5[budget:$7.25E7] planning basic transport for 10 people on day 0
+Planner5 successfully reserved Date:0;Type:BASICTRANSPORT;Bus:SPT_SML:numPeople:10
+Approval Certificate #19 granted to Planner5 for trip
+--------------------------------------
+======================================
+Planner5[budget:$7.2476E7] planning basic transport for 100 people on day 1
+Planner5 successfully reserved Date:1;Type:BASICTRANSPORT;Bus:SPT_SML:numPeople:100
+Approval Certificate #20 granted to Planner5 for trip
+--------------------------------------
+======================================
+Planner5[budget:$7.2452E7] planning a training trip with 10 people on day 2
+Planner5 successfully reserved Date:2;Type:TRAINING;Bus:SPT_SML:numPeople:10
+Approval Certificate #21 granted to Planner5 for trip
+--------------------------------------
+======================================
+Planner5[budget:$7.2428E7] planning a sports trip with 20 competitors and 10 others on day 3
+Planner5 successfully reserved Date:3;Type:SPORT;Bus:TRN_BIG:numPeople:30
+Approval Certificate #22 granted to Planner5 for trip
+--------------------------------------
+======================================
+Planner5[budget:$5.6803E7] planning a party trip with 20 people on day 4
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner5[budget:$5.6803E7] planning a party trip with 500 people
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner1[budget:$84862.0] planning basic transport for 10 people on day 1
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner1[budget:$84862.0] planning basic transport for 100 people on day 2
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner1[budget:$84862.0] planning a training trip with 10 people on day 3
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner1[budget:$84862.0] planning a sports trip with 20 competitors and 10 others on day 4
+Planner1 successfully reserved Date:4;Type:SPORT;Bus:BUS_SML:numPeople:30
+Approval Certificate #23 granted to Planner1 for trip
+--------------------------------------
+======================================
+Planner1[budget:$84762.0] planning a party trip with 20 people on day 5
+Planner1 successfully reserved Date:4;Type:PARTY;Bus:BUS_BIG:numPeople:20
+Approval Certificate #24 granted to Planner1 for trip
+--------------------------------------
+======================================
+Planner1[budget:$83912.0] planning a party trip with 500 people
+Planner1 successfully reserved Date:4;Type:PARTY;Bus:PRT_BIG:numPeople:200
+Approval Certificate #25 granted to Planner1 for trip
+--------------------------------------
+======================================
+Planner2[budget:$19284.0] planning basic transport for 10 people on day 1
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner2[budget:$19284.0] planning basic transport for 100 people on day 2
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner2[budget:$19284.0] planning a training trip with 10 people on day 3
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner2[budget:$19284.0] planning a sports trip with 20 competitors and 10 others on day 4
+Planner2 successfully reserved Date:4;Type:SPORT;Bus:PRT_SML:numPeople:30
+Approval Certificate #26 granted to Planner2 for trip
+--------------------------------------
+======================================
+Planner2[budget:$15118.0] planning a party trip with 20 people on day 5
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner2[budget:$15118.0] planning a party trip with 500 people
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner3[budget:$47502.0] planning basic transport for 10 people on day 1
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner3[budget:$47502.0] planning basic transport for 100 people on day 2
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner3[budget:$47502.0] planning a training trip with 10 people on day 3
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner3[budget:$47502.0] planning a sports trip with 20 competitors and 10 others on day 4
+Planner3 successfully reserved Date:4;Type:SPORT;Bus:SPT_SML:numPeople:30
+Approval Certificate #27 granted to Planner3 for trip
+--------------------------------------
+======================================
+Planner3[budget:$23502.0] planning a party trip with 20 people on day 5
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner3[budget:$23502.0] planning a party trip with 500 people
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner4[budget:$1768336.0] planning basic transport for 10 people on day 1
+Planner4 successfully reserved Date:1;Type:BASICTRANSPORT;Bus:SPT_BIG:numPeople:10
+Approval Certificate #28 granted to Planner4 for trip
+--------------------------------------
+======================================
+Planner4[budget:$1678336.0] planning basic transport for 100 people on day 2
+Planner4 successfully reserved Date:2;Type:BASICTRANSPORT;Bus:SPT_BIG:numPeople:100
+Approval Certificate #29 granted to Planner4 for trip
+--------------------------------------
+======================================
+Planner4[budget:$1588336.0] planning a training trip with 10 people on day 3
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner4[budget:$1588336.0] planning a sports trip with 20 competitors and 10 others on day 4
+Planner4 successfully reserved Date:4;Type:SPORT;Bus:SPT_BIG:numPeople:30
+Approval Certificate #30 granted to Planner4 for trip
+--------------------------------------
+======================================
+Planner4[budget:$1498336.0] planning a party trip with 20 people on day 5
+Planner4 successfully reserved Date:4;Type:PARTY;Bus:TRN_SML:numPeople:20
+Approval Certificate #31 granted to Planner4 for trip
+--------------------------------------
+======================================
+Planner4[budget:$1398336.0] planning a party trip with 500 people
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner5[budget:$5.6803E7] planning basic transport for 10 people on day 1
+Planner5 successfully reserved Date:1;Type:BASICTRANSPORT;Bus:TRN_SML:numPeople:10
+Approval Certificate #32 granted to Planner5 for trip
+--------------------------------------
+======================================
+Planner5[budget:$5.6703E7] planning basic transport for 100 people on day 2
+Planner5 successfully reserved Date:2;Type:BASICTRANSPORT;Bus:TRN_SML:numPeople:100
+Approval Certificate #33 granted to Planner5 for trip
+--------------------------------------
+======================================
+Planner5[budget:$5.6603E7] planning a training trip with 10 people on day 3
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner5[budget:$5.6603E7] planning a sports trip with 20 competitors and 10 others on day 4
+Planner5 successfully reserved Date:4;Type:SPORT;Bus:TRN_BIG:numPeople:30
+Approval Certificate #34 granted to Planner5 for trip
+--------------------------------------
+======================================
+Planner5[budget:$4.0978E7] planning a party trip with 20 people on day 5
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner5[budget:$4.0978E7] planning a party trip with 500 people
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner1[budget:$70024.0] planning basic transport for 10 people on day 2
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner1[budget:$70024.0] planning basic transport for 100 people on day 3
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner1[budget:$70024.0] planning a training trip with 10 people on day 4
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner1[budget:$70024.0] planning a sports trip with 20 competitors and 10 others on day 5
+Planner1 successfully reserved Date:5;Type:SPORT;Bus:BUS_SML:numPeople:30
+Approval Certificate #35 granted to Planner1 for trip
+--------------------------------------
+======================================
+Planner1[budget:$69924.0] planning a party trip with 20 people on day 6
+Planner1 successfully reserved Date:5;Type:PARTY;Bus:BUS_BIG:numPeople:20
+Approval Certificate #36 granted to Planner1 for trip
+--------------------------------------
+======================================
+Planner1[budget:$69074.0] planning a party trip with 500 people
+Planner1 successfully reserved Date:5;Type:PARTY;Bus:PRT_BIG:numPeople:200
+Approval Certificate #37 granted to Planner1 for trip
+--------------------------------------
+======================================
+Planner2[budget:$15118.0] planning basic transport for 10 people on day 2
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner2[budget:$15118.0] planning basic transport for 100 people on day 3
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner2[budget:$15118.0] planning a training trip with 10 people on day 4
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner2[budget:$15118.0] planning a sports trip with 20 competitors and 10 others on day 5
+Planner2 successfully reserved Date:5;Type:SPORT;Bus:PRT_SML:numPeople:30
+Approval Certificate #38 granted to Planner2 for trip
+--------------------------------------
+======================================
+Planner2[budget:$10952.0] planning a party trip with 20 people on day 6
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner2[budget:$10952.0] planning a party trip with 500 people
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner3[budget:$23502.0] planning basic transport for 10 people on day 2
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner3[budget:$23502.0] planning basic transport for 100 people on day 3
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner3[budget:$23502.0] planning a training trip with 10 people on day 4
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner3[budget:$23502.0] planning a sports trip with 20 competitors and 10 others on day 5
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner3[budget:$23502.0] planning a party trip with 20 people on day 6
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner3[budget:$23502.0] planning a party trip with 500 people
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner4[budget:$1398336.0] planning basic transport for 10 people on day 2
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner4[budget:$1398336.0] planning basic transport for 100 people on day 3
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner4[budget:$1398336.0] planning a training trip with 10 people on day 4
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner4[budget:$1398336.0] planning a sports trip with 20 competitors and 10 others on day 5
+Planner4 successfully reserved Date:5;Type:SPORT;Bus:SPT_SML:numPeople:30
+Approval Certificate #39 granted to Planner4 for trip
+--------------------------------------
+======================================
+Planner4[budget:$1374336.0] planning a party trip with 20 people on day 6
+Planner4 successfully reserved Date:5;Type:PARTY;Bus:SPT_BIG:numPeople:20
+Approval Certificate #40 granted to Planner4 for trip
+--------------------------------------
+======================================
+Planner4[budget:$1284336.0] planning a party trip with 500 people
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner5[budget:$4.0978E7] planning basic transport for 10 people on day 2
+Planner5 successfully reserved Date:2;Type:BASICTRANSPORT;Bus:TRN_BIG:numPeople:10
+Approval Certificate #41 granted to Planner5 for trip
+--------------------------------------
+======================================
+Planner5[budget:$2.5353E7] planning basic transport for 100 people on day 3
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner5[budget:$2.5353E7] planning a training trip with 10 people on day 4
+No suitable bus is available
+Didn't work out
+--------------------------------------
+======================================
+Planner5[budget:$2.5353E7] planning a sports trip with 20 competitors and 10 others on day 5
+Planner5 successfully reserved Date:5;Type:SPORT;Bus:TRN_SML:numPeople:30
+Approval Certificate #42 granted to Planner5 for trip
+--------------------------------------
+======================================
+Planner5[budget:$2.5253E7] planning a party trip with 20 people on day 6
+Planner5 successfully reserved Date:5;Type:PARTY;Bus:TRN_BIG:numPeople:20
+Approval Certificate #43 granted to Planner5 for trip
+--------------------------------------
+======================================
+Planner5[budget:$9628000.0] planning a party trip with 500 people
+No suitable bus is available
+Didn't work out
+--------------------------------------
+
+TRIPS ON BUS_SML
+===================
+Date:0;Type:BASICTRANSPORT;Bus:BUS_SML:numPeople:10
+Date:1;Type:BASICTRANSPORT;Bus:BUS_SML:numPeople:100
+Date:2;Type:TRAINING;Bus:BUS_SML:numPeople:10
+Date:3;Type:SPORT;Bus:BUS_SML:numPeople:30
+Date:4;Type:SPORT;Bus:BUS_SML:numPeople:30
+Date:5;Type:SPORT;Bus:BUS_SML:numPeople:30
+
+TRIPS ON BUS_BIG
+===================
+Date:3;Type:PARTY;Bus:BUS_BIG:numPeople:20
+Date:0;Type:BASICTRANSPORT;Bus:BUS_BIG:numPeople:10
+Date:1;Type:BASICTRANSPORT;Bus:BUS_BIG:numPeople:100
+Date:2;Type:TRAINING;Bus:BUS_BIG:numPeople:10
+Date:4;Type:PARTY;Bus:BUS_BIG:numPeople:20
+Date:5;Type:PARTY;Bus:BUS_BIG:numPeople:20
+
+TRIPS ON SPT_SML
+===================
+Date:3;Type:PARTY;Bus:SPT_SML:numPeople:20
+Date:0;Type:BASICTRANSPORT;Bus:SPT_SML:numPeople:10
+Date:1;Type:BASICTRANSPORT;Bus:SPT_SML:numPeople:100
+Date:2;Type:TRAINING;Bus:SPT_SML:numPeople:10
+Date:4;Type:SPORT;Bus:SPT_SML:numPeople:30
+Date:5;Type:SPORT;Bus:SPT_SML:numPeople:30
+
+TRIPS ON SPT_BIG
+===================
+Date:3;Type:SPORT;Bus:SPT_BIG:numPeople:30
+Date:1;Type:BASICTRANSPORT;Bus:SPT_BIG:numPeople:10
+Date:2;Type:BASICTRANSPORT;Bus:SPT_BIG:numPeople:100
+Date:4;Type:SPORT;Bus:SPT_BIG:numPeople:30
+Date:5;Type:PARTY;Bus:SPT_BIG:numPeople:20
+
+TRIPS ON TRN_SML
+===================
+Date:3;Type:PARTY;Bus:TRN_SML:numPeople:20
+Date:4;Type:PARTY;Bus:TRN_SML:numPeople:20
+Date:1;Type:BASICTRANSPORT;Bus:TRN_SML:numPeople:10
+Date:2;Type:BASICTRANSPORT;Bus:TRN_SML:numPeople:100
+Date:5;Type:SPORT;Bus:TRN_SML:numPeople:30
+
+TRIPS ON TRN_BIG
+===================
+Date:3;Type:SPORT;Bus:TRN_BIG:numPeople:30
+Date:4;Type:SPORT;Bus:TRN_BIG:numPeople:30
+Date:2;Type:BASICTRANSPORT;Bus:TRN_BIG:numPeople:10
+Date:5;Type:PARTY;Bus:TRN_BIG:numPeople:20
+
+TRIPS ON PRT_SML
+===================
+Date:3;Type:SPORT;Bus:PRT_SML:numPeople:30
+Date:0;Type:BASICTRANSPORT;Bus:PRT_SML:numPeople:10
+Date:1;Type:BASICTRANSPORT;Bus:PRT_SML:numPeople:100
+Date:2;Type:TRAINING;Bus:PRT_SML:numPeople:10
+Date:4;Type:SPORT;Bus:PRT_SML:numPeople:30
+Date:5;Type:SPORT;Bus:PRT_SML:numPeople:30
+
+TRIPS ON PRT_BIG
+===================
+Date:3;Type:PARTY;Bus:PRT_BIG:numPeople:200
+Date:0;Type:BASICTRANSPORT;Bus:PRT_BIG:numPeople:10
+Date:1;Type:BASICTRANSPORT;Bus:PRT_BIG:numPeople:100
+Date:2;Type:TRAINING;Bus:PRT_BIG:numPeople:10
+Date:4;Type:PARTY;Bus:PRT_BIG:numPeople:200
+Date:5;Type:PARTY;Bus:PRT_BIG:numPeople:200
